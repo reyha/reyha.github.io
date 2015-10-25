@@ -1,6 +1,5 @@
 
 # This file contains configuration flags to customize your site
-#
 
 # Name of your site (displayed in the header)
 name: Reyha Verma
@@ -11,15 +10,15 @@ description: 3rd year B.Tech student,Dept of CSE, NIT Srinagar
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
-#
+
 # Flags below are optional
-#
+
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
   email:reyhaverma@gmail.com
-  facebook:reyhaverma@gmail.com
+  facebook:
   flickr:
   github: reyha/reyha.github.io
   instagram:
