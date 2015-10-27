@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: About_Me
 permalink: /about/
 ---
 
-Some information about you!
+### **_Reyha Verma_**
 
-### More Information
+I am an undergraduate student at [National Institute of Technology, Srinagar](http://www.nitsri.net/) doing a Bachelors degree course in the Department of computer Science Engineering.I find Python, C and C++ very fascinating besides finf=ding interest in web development languages like html,css and javascript. I love to play table-tennis and badminton in my free time  and groove to some f my favourite numbers.I am not much of a blogger but I will try to update all of my activites. You can contact me to discuss anything to the work that I do.
 
-A place to include any other types of information that you'd like to include about yourself.
+### **_Contact_**
 
-### Contact me
+My email is 'firstname_lastname@gmail.com'. My username on Github is reyha and I hang around on IRC as reyha on freenode.net
 
-[email@domain.com](mailto:email@domain.com)
+### **_More_** 
+
+To know more about me, click [here](https://www.facebook.com/reyha.verma)
