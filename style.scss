@@ -18,9 +18,10 @@ html {
 }
 
 body {
-	background: $white;
+	background: $Black;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+ 
 }
 
 .container {
@@ -107,7 +108,7 @@ strong, b {
 }
 
 img {
-  max-width: 100%;
+  max-width: 500%;
 }
 
 // Fixes images in popup boxes from Google Translate
