@@ -8,7 +8,7 @@ name: Reyha Verma
 description: Eat.Sleep.Code
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://tinypic.com/r/33k7qlw/9
+avatar: http://tinypic.com/r/2qa5vmc/9
 
 # Flags below are optional
 
@@ -17,11 +17,11 @@ avatar: http://tinypic.com/r/33k7qlw/9
 footer-links:
   dribbble:
   email: reyhaverma@gmail.com
-  facebook:
+  facebook: https://www.facebook.com/reyha.verma
   flickr:
   github: reyha
-  instagram:
-  linkedin:
+  instagram: https://www.instagram.com/reyhaverma
+  linkedin: https://in.linkedin.com/in/reyha-verma-06920b101
   pinterest:
   rss: reyhverma
   twitter: reyhav
