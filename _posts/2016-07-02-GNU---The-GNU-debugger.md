@@ -6,6 +6,11 @@ The GNU Debugger, usually called just **GDB** and named gdb as an executable fil
 Even though GDB can help you in finding out memory leakage related bugs, but it is not a tool to detect memory leakages. GDB cannot be used for programs that compile with errors and it does not help in fixing those errors.
 
 **USAGE :**
+
+
+
 gdb nameofprogram   *#debugs program (from the shell)*
+
+
 run -v	            *#runs the loaded program with the parameters*
 
