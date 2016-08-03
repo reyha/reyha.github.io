@@ -3,13 +3,16 @@ layout: post
 title: RSA digital signature scheme
 ---
 A digital signature is a mathematical scheme for demonstrating the authenticity of a digital message or documents. 
-A valid digital signature gives a recipient reason to believe that the message was created by a known sender, that the sender cannot deny having sent the message (authentication and non-repudiation), and that the message was not altered in transit (integrity).**RSA** is one of the first practical public-key cryptosystems and is widely used for secure data transmission. 
+A valid digital signature gives a recipient reason to believe that the message was created by a known sender, that the sender cannot deny having sent the message (authentication and non-repudiation), and that the message was not altered in transit (integrity).
+
+
+**RSA** is one of the first practical public-key cryptosystems and is widely used for secure data transmission. 
 In such a cryptosystem, the encryption key is public and differs from the decryption key which is kept secret. 
 In RSA, this asymmetry is based on the practical difficulty of factoring the product of two large prime numbers, the factoring problem. RSA is made of the initial letters of the surnames of Ron Rivest, Adi Shamir, and Leonard Adleman, who first publicly described the algorithm in 1977.
 
 
 
-RSA DSS approach:
+__**RSA DSS approach:**__
 
 
 
