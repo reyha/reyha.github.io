@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RSA digital signature scheme
+title: RSA DSS
 ---
 A digital signature is a mathematical scheme for demonstrating the authenticity of a digital message or documents. 
 A valid digital signature gives a recipient reason to believe that the message was created by a known sender, that the sender cannot deny having sent the message (authentication and non-repudiation), and that the message was not altered in transit (integrity).
