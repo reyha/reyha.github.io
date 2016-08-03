@@ -2,13 +2,13 @@
 # This file contains configuration flags to customize your site
 
 # Name of your site (displayed in the header)
-name: Reyha Verma
+name: Reyha 
 
 # Short bio or description (displayed in the header)
-description: Eat.Sleep.Code
+description: CSE | NIT-SXR | MUSIC
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: profile pic
+avatar: /images/404.jpg
 
 # Flags below are optional
 
