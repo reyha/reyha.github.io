@@ -153,7 +153,11 @@ img {
 .wrapper-masthead {
   margin-bottom: 150px;
   background-image: url('../images/download.jpg');
-  height: 700px;
+  height: 500px;
+  width: 100px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 
 .masthead {
