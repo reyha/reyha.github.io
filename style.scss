@@ -152,9 +152,10 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 150px;
-  background-image: url('../images/download.jpg');
   height: 500px;
-  width: 100%;
+  width: 700px;
+  background-image: url('../images/download.jpg');
+  background-size: contain;
   background-repeat: no-repeat;
 }
 
