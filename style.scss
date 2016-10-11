@@ -166,7 +166,7 @@ img {
     text-align: center;
   }
 }
-
+/*
 .site-avatar {
   float: left;
   width: 150px;
@@ -183,7 +183,7 @@ img {
     border-radius: 50px;
   }
 }
-
+*/
 .site-info {
   float: left;
 
@@ -195,13 +195,13 @@ img {
 }
 
 .site-name {
-  margin: 50;
-  color: $darkGray;
+  margin: 60;
+  color: $white;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
-  font-size: 60px;
-  letter-spacing: 1px;
+  font-size: 70px;
+  letter-spacing: 2px;
 }
 
 .site-description {
