@@ -107,7 +107,7 @@ strong, b {
 }
 
 img {
-  max-width: 100%;
+  max-width: 500%;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -176,7 +176,7 @@ img {
   }
 
   img {
-    border-radius: 12px;
+    border-radius: 50px;
   }
 }
 
@@ -191,12 +191,12 @@ img {
 }
 
 .site-name {
-  margin: 0;
+  margin: 50;
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
-  font-size: 30px;
+  font-size: 60px;
   letter-spacing: 1px;
 }
 
