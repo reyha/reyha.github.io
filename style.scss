@@ -25,9 +25,10 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 1000px;
   padding: 0 10px;
   width: 100%;
+  
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -107,7 +108,7 @@ strong, b {
 }
 
 img {
-  max-width: 500%;
+  max-width: 900%;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -151,7 +152,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 150px;
 }
 
 .masthead {
