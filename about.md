@@ -6,7 +6,7 @@ permalink: /about/
 
 ## **Reyha Verma**
 ---
-I am a final year undergraduate student at [National Institute of Technology, Srinagar](http://www.nitsri.net/) pursuing a Bachelors degree from the Department of *Computer Science* . I will be graduating in 2017.I find Python, C and C++ very fascinating besides finding interest in web development languages like html,css and javascript. I love to play table-tennis and badminton in my free time  and groove to some of my favourite numbers.I am not much of a blogger but I will try to update all of my activites. 
+I am a final year undergraduate student at [National Institute of Technology, Srinagar](http://www.nitsri.net/) pursuing a Bachelors degree from the Department of *Computer Science* . I will be graduating in 2017. I find Python, C and C++ very fascinating besides finding interest in web development languages like HTML, CSS and Javascript. I love to play table-tennis and badminton in my free time  and groove to some of my favourite numbers.I am not much of a blogger but I will try to update all of my activites. 
 
 ## **Contact**
 ---
