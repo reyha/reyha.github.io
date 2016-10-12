@@ -15,10 +15,19 @@ avatar:
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: reyhaverma@gmail.com
+  dribbble:
+  email: 
+  facebook: 	
+  flickr:
   github: reyha
+  instagram: 
   linkedin: https://in.linkedin.com/in/reyha-verma-06920b101
+  pinterest:		
+  rss: 
   twitter: reyhav
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"		 
+  youtube: # channel/<your_long_string> or user/<user-name>		
+  googleplus: # anything in your profile username that comes after plus.google.com/
   
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
