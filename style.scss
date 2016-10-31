@@ -73,7 +73,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $darkGray;
+    color: $black;
   }
 }
 
@@ -122,12 +122,12 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $white;
-  background: $lightGray;
+  color: $black;
+  background: $darkGray;
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background: $darkGray;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -274,6 +274,7 @@ nav {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
+    color: $black;
   }
 }
 
